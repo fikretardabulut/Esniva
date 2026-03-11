@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="Esniva.Api/Esniva.Api.csproj" />
+    <Project Path="Esniva.Application/Esniva.Application.csproj" />
+    <Project Path="Esniva.Domain/Esniva.Domain.csproj" />
+    <Project Path="Esniva.GraphQL/Esniva.GraphQL.csproj" />
+    <Project Path="Esniva.Infrastructure/Esniva.Infrastructure.csproj" />
+    <Project Path="Esniva.MultiTenancy/Esniva.MultiTenancy.csproj" />
+    <Project Path="Esniva.Shared/Esniva.Shared.csproj" Id="4af0356a-108e-4452-849f-581ea50aaca8" />
+    <Project Path="Esniva.Workers/Esniva.Workers.csproj" Id="d23ad89d-4670-4045-a212-c1897cfeeaeb" />
+  </Folder>
+  <Folder Name="/test/" />
+</Solution>

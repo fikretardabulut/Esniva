@@ -1,0 +1,11 @@
+C:\Users\bulut\source\repos\Esniva\Esniva.Domain\bin\Debug\net10.0\Esniva.Domain.deps.json
+C:\Users\bulut\source\repos\Esniva\Esniva.Domain\bin\Debug\net10.0\Esniva.Domain.dll
+C:\Users\bulut\source\repos\Esniva\Esniva.Domain\bin\Debug\net10.0\Esniva.Domain.pdb
+C:\Users\bulut\source\repos\Esniva\Esniva.Domain\obj\Debug\net10.0\Esniva.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bulut\source\repos\Esniva\Esniva.Domain\obj\Debug\net10.0\Esniva.Domain.AssemblyInfoInputs.cache
+C:\Users\bulut\source\repos\Esniva\Esniva.Domain\obj\Debug\net10.0\Esniva.Domain.AssemblyInfo.cs
+C:\Users\bulut\source\repos\Esniva\Esniva.Domain\obj\Debug\net10.0\Esniva.Domain.csproj.CoreCompileInputs.cache
+C:\Users\bulut\source\repos\Esniva\Esniva.Domain\obj\Debug\net10.0\Esniva.Domain.dll
+C:\Users\bulut\source\repos\Esniva\Esniva.Domain\obj\Debug\net10.0\refint\Esniva.Domain.dll
+C:\Users\bulut\source\repos\Esniva\Esniva.Domain\obj\Debug\net10.0\Esniva.Domain.pdb
+C:\Users\bulut\source\repos\Esniva\Esniva.Domain\obj\Debug\net10.0\ref\Esniva.Domain.dll

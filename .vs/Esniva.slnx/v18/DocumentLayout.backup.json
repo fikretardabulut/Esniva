@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bulut\\source\\repos\\Esniva\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA103AC2-2DB8-D9B7-5AF6-EF25175C472F}|Esniva.Api\\Esniva.Api.csproj|c:\\users\\bulut\\source\\repos\\esniva\\esniva.api\\middleware\\tenantmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA103AC2-2DB8-D9B7-5AF6-EF25175C472F}|Esniva.Api\\Esniva.Api.csproj|solutionrelative:esniva.api\\middleware\\tenantmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D43763-EDD8-EB49-88C3-4E96F8C3B8FB}|Esniva.Domain\\Esniva.Domain.csproj|c:\\users\\bulut\\source\\repos\\esniva\\esniva.domain\\common\\itenantentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71D43763-EDD8-EB49-88C3-4E96F8C3B8FB}|Esniva.Domain\\Esniva.Domain.csproj|solutionrelative:esniva.domain\\common\\itenantentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D43763-EDD8-EB49-88C3-4E96F8C3B8FB}|Esniva.Domain\\Esniva.Domain.csproj|c:\\users\\bulut\\source\\repos\\esniva\\esniva.domain\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71D43763-EDD8-EB49-88C3-4E96F8C3B8FB}|Esniva.Domain\\Esniva.Domain.csproj|solutionrelative:esniva.domain\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D43763-EDD8-EB49-88C3-4E96F8C3B8FB}|Esniva.Domain\\Esniva.Domain.csproj|c:\\users\\bulut\\source\\repos\\esniva\\esniva.domain\\esniva.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{71D43763-EDD8-EB49-88C3-4E96F8C3B8FB}|Esniva.Domain\\Esniva.Domain.csproj|solutionrelative:esniva.domain\\esniva.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA103AC2-2DB8-D9B7-5AF6-EF25175C472F}|Esniva.Api\\Esniva.Api.csproj|c:\\users\\bulut\\source\\repos\\esniva\\esniva.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA103AC2-2DB8-D9B7-5AF6-EF25175C472F}|Esniva.Api\\Esniva.Api.csproj|solutionrelative:esniva.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B565AB2A-5D22-7FCE-7169-2C1DD9E54659}|Esniva.MultiTenancy\\Esniva.MultiTenancy.csproj|c:\\users\\bulut\\source\\repos\\esniva\\esniva.multitenancy\\tenantprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B565AB2A-5D22-7FCE-7169-2C1DD9E54659}|Esniva.MultiTenancy\\Esniva.MultiTenancy.csproj|solutionrelative:esniva.multitenancy\\tenantprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B565AB2A-5D22-7FCE-7169-2C1DD9E54659}|Esniva.MultiTenancy\\Esniva.MultiTenancy.csproj|c:\\users\\bulut\\source\\repos\\esniva\\esniva.multitenancy\\tenantcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B565AB2A-5D22-7FCE-7169-2C1DD9E54659}|Esniva.MultiTenancy\\Esniva.MultiTenancy.csproj|solutionrelative:esniva.multitenancy\\tenantcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B565AB2A-5D22-7FCE-7169-2C1DD9E54659}|Esniva.MultiTenancy\\Esniva.MultiTenancy.csproj|c:\\users\\bulut\\source\\repos\\esniva\\esniva.multitenancy\\itenantprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B565AB2A-5D22-7FCE-7169-2C1DD9E54659}|Esniva.MultiTenancy\\Esniva.MultiTenancy.csproj|solutionrelative:esniva.multitenancy\\itenantprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39E3CBCE-8FED-6C28-A95F-5BB172753E0F}|Esniva.Infrastructure\\Esniva.Infrastructure.csproj|c:\\users\\bulut\\source\\repos\\esniva\\esniva.infrastructure\\persistence\\esnivadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39E3CBCE-8FED-6C28-A95F-5BB172753E0F}|Esniva.Infrastructure\\Esniva.Infrastructure.csproj|solutionrelative:esniva.infrastructure\\persistence\\esnivadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39E3CBCE-8FED-6C28-A95F-5BB172753E0F}|Esniva.Infrastructure\\Esniva.Infrastructure.csproj|c:\\users\\bulut\\source\\repos\\esniva\\esniva.infrastructure\\esniva.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{39E3CBCE-8FED-6C28-A95F-5BB172753E0F}|Esniva.Infrastructure\\Esniva.Infrastructure.csproj|solutionrelative:esniva.infrastructure\\esniva.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D43763-EDD8-EB49-88C3-4E96F8C3B8FB}|Esniva.Domain\\Esniva.Domain.csproj|c:\\users\\bulut\\source\\repos\\esniva\\esniva.domain\\entities\\tenant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71D43763-EDD8-EB49-88C3-4E96F8C3B8FB}|Esniva.Domain\\Esniva.Domain.csproj|solutionrelative:esniva.domain\\entities\\tenant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA103AC2-2DB8-D9B7-5AF6-EF25175C472F}|Esniva.Api\\Esniva.Api.csproj|c:\\users\\bulut\\source\\repos\\esniva\\esniva.api\\esniva.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AA103AC2-2DB8-D9B7-5AF6-EF25175C472F}|Esniva.Api\\Esniva.Api.csproj|solutionrelative:esniva.api\\esniva.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA103AC2-2DB8-D9B7-5AF6-EF25175C472F}|Esniva.Api\\Esniva.Api.csproj|c:\\users\\bulut\\source\\repos\\esniva\\esniva.api\\esniva.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{AA103AC2-2DB8-D9B7-5AF6-EF25175C472F}|Esniva.Api\\Esniva.Api.csproj|solutionrelative:esniva.api\\esniva.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D43763-EDD8-EB49-88C3-4E96F8C3B8FB}|Esniva.Domain\\Esniva.Domain.csproj|c:\\users\\bulut\\source\\repos\\esniva\\esniva.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71D43763-EDD8-EB49-88C3-4E96F8C3B8FB}|Esniva.Domain\\Esniva.Domain.csproj|solutionrelative:esniva.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B565AB2A-5D22-7FCE-7169-2C1DD9E54659}|Esniva.MultiTenancy\\Esniva.MultiTenancy.csproj|c:\\users\\bulut\\source\\repos\\esniva\\esniva.multitenancy\\esniva.multitenancy.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B565AB2A-5D22-7FCE-7169-2C1DD9E54659}|Esniva.MultiTenancy\\Esniva.MultiTenancy.csproj|solutionrelative:esniva.multitenancy\\esniva.multitenancy.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TenantContext.cs",
+              "DocumentMoniker": "C:\\Users\\bulut\\source\\repos\\Esniva\\Esniva.MultiTenancy\\TenantContext.cs",
+              "RelativeDocumentMoniker": "Esniva.MultiTenancy\\TenantContext.cs",
+              "ToolTip": "C:\\Users\\bulut\\source\\repos\\Esniva\\Esniva.MultiTenancy\\TenantContext.cs",
+              "RelativeToolTip": "Esniva.MultiTenancy\\TenantContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T00:40:45.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bulut\\source\\repos\\Esniva\\Esniva.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Esniva.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\bulut\\source\\repos\\Esniva\\Esniva.Api\\Program.cs",
+              "RelativeToolTip": "Esniva.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T00:11:42.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TenantProvider.cs",
+              "DocumentMoniker": "C:\\Users\\bulut\\source\\repos\\Esniva\\Esniva.MultiTenancy\\TenantProvider.cs",
+              "RelativeDocumentMoniker": "Esniva.MultiTenancy\\TenantProvider.cs",
+              "ToolTip": "C:\\Users\\bulut\\source\\repos\\Esniva\\Esniva.MultiTenancy\\TenantProvider.cs",
+              "RelativeToolTip": "Esniva.MultiTenancy\\TenantProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T00:41:14.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\bulut\\source\\repos\\Esniva\\Esniva.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Esniva.Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\bulut\\source\\repos\\Esniva\\Esniva.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "Esniva.Domain\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T20:39:39.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ITenantProvider.cs",
+              "DocumentMoniker": "C:\\Users\\bulut\\source\\repos\\Esniva\\Esniva.MultiTenancy\\ITenantProvider.cs",
+              "RelativeDocumentMoniker": "Esniva.MultiTenancy\\ITenantProvider.cs",
+              "ToolTip": "C:\\Users\\bulut\\source\\repos\\Esniva\\Esniva.MultiTenancy\\ITenantProvider.cs",
+              "RelativeToolTip": "Esniva.MultiTenancy\\ITenantProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T00:41:01.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Esniva.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\bulut\\source\\repos\\Esniva\\Esniva.Domain\\Esniva.Domain.csproj",
+              "RelativeDocumentMoniker": "Esniva.Domain\\Esniva.Domain.csproj",
+              "ToolTip": "C:\\Users\\bulut\\source\\repos\\Esniva\\Esniva.Domain\\Esniva.Domain.csproj",
+              "RelativeToolTip": "Esniva.Domain\\Esniva.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-11T00:05:46.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\bulut\\source\\repos\\Esniva\\Esniva.Domain\\Common\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Esniva.Domain\\Common\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\bulut\\source\\repos\\Esniva\\Esniva.Domain\\Common\\BaseEntity.cs",
+              "RelativeToolTip": "Esniva.Domain\\Common\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T00:06:28.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ITenantEntity.cs",
+              "DocumentMoniker": "C:\\Users\\bulut\\source\\repos\\Esniva\\Esniva.Domain\\Common\\ITenantEntity.cs",
+              "RelativeDocumentMoniker": "Esniva.Domain\\Common\\ITenantEntity.cs",
+              "ToolTip": "C:\\Users\\bulut\\source\\repos\\Esniva\\Esniva.Domain\\Common\\ITenantEntity.cs",
+              "RelativeToolTip": "Esniva.Domain\\Common\\ITenantEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T20:39:07.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TenantMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\bulut\\source\\repos\\Esniva\\Esniva.Api\\Middleware\\TenantMiddleware.cs",
+              "RelativeDocumentMoniker": "Esniva.Api\\Middleware\\TenantMiddleware.cs",
+              "ToolTip": "C:\\Users\\bulut\\source\\repos\\Esniva\\Esniva.Api\\Middleware\\TenantMiddleware.cs",
+              "RelativeToolTip": "Esniva.Api\\Middleware\\TenantMiddleware.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAmwCIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T20:50:16.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Esniva.Api.http",
+              "DocumentMoniker": "C:\\Users\\bulut\\source\\repos\\Esniva\\Esniva.Api\\Esniva.Api.http",
+              "RelativeDocumentMoniker": "Esniva.Api\\Esniva.Api.http",
+              "ToolTip": "C:\\Users\\bulut\\source\\repos\\Esniva\\Esniva.Api\\Esniva.Api.http",
+              "RelativeToolTip": "Esniva.Api\\Esniva.Api.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-03-11T00:43:21.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Tenant.cs",
+              "DocumentMoniker": "C:\\Users\\bulut\\source\\repos\\Esniva\\Esniva.Domain\\Entities\\Tenant.cs",
+              "RelativeDocumentMoniker": "Esniva.Domain\\Entities\\Tenant.cs",
+              "ToolTip": "C:\\Users\\bulut\\source\\repos\\Esniva\\Esniva.Domain\\Entities\\Tenant.cs",
+              "RelativeToolTip": "Esniva.Domain\\Entities\\Tenant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T00:06:00.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EsnivaDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\bulut\\source\\repos\\Esniva\\Esniva.Infrastructure\\Persistence\\EsnivaDbContext.cs",
+              "RelativeDocumentMoniker": "Esniva.Infrastructure\\Persistence\\EsnivaDbContext.cs",
+              "ToolTip": "C:\\Users\\bulut\\source\\repos\\Esniva\\Esniva.Infrastructure\\Persistence\\EsnivaDbContext.cs",
+              "RelativeToolTip": "Esniva.Infrastructure\\Persistence\\EsnivaDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T00:09:45.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Esniva.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\bulut\\source\\repos\\Esniva\\Esniva.Infrastructure\\Esniva.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Esniva.Infrastructure\\Esniva.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\bulut\\source\\repos\\Esniva\\Esniva.Infrastructure\\Esniva.Infrastructure.csproj",
+              "RelativeToolTip": "Esniva.Infrastructure\\Esniva.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-11T00:08:48.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Esniva.Api",
+              "DocumentMoniker": "C:\\Users\\bulut\\source\\repos\\Esniva\\Esniva.Api\\Esniva.Api.csproj",
+              "RelativeDocumentMoniker": "Esniva.Api\\Esniva.Api.csproj",
+              "ToolTip": "C:\\Users\\bulut\\source\\repos\\Esniva\\Esniva.Api\\Esniva.Api.csproj",
+              "RelativeToolTip": "Esniva.Api\\Esniva.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-11T20:49:41.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Esniva.MultiTenancy.csproj",
+              "DocumentMoniker": "C:\\Users\\bulut\\source\\repos\\Esniva\\Esniva.MultiTenancy\\Esniva.MultiTenancy.csproj",
+              "RelativeDocumentMoniker": "Esniva.MultiTenancy\\Esniva.MultiTenancy.csproj",
+              "ToolTip": "C:\\Users\\bulut\\source\\repos\\Esniva\\Esniva.MultiTenancy\\Esniva.MultiTenancy.csproj",
+              "RelativeToolTip": "Esniva.MultiTenancy\\Esniva.MultiTenancy.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-11T00:41:10.414Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

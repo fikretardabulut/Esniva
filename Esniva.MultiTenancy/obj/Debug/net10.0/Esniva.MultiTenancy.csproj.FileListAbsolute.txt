@@ -1,0 +1,12 @@
+C:\Users\bulut\source\repos\Esniva\Esniva.MultiTenancy\bin\Debug\net10.0\Esniva.MultiTenancy.deps.json
+C:\Users\bulut\source\repos\Esniva\Esniva.MultiTenancy\bin\Debug\net10.0\Esniva.MultiTenancy.dll
+C:\Users\bulut\source\repos\Esniva\Esniva.MultiTenancy\bin\Debug\net10.0\Esniva.MultiTenancy.pdb
+C:\Users\bulut\source\repos\Esniva\Esniva.MultiTenancy\obj\Debug\net10.0\Esniva.MultiTenancy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bulut\source\repos\Esniva\Esniva.MultiTenancy\obj\Debug\net10.0\Esniva.MultiTenancy.AssemblyInfoInputs.cache
+C:\Users\bulut\source\repos\Esniva\Esniva.MultiTenancy\obj\Debug\net10.0\Esniva.MultiTenancy.AssemblyInfo.cs
+C:\Users\bulut\source\repos\Esniva\Esniva.MultiTenancy\obj\Debug\net10.0\Esniva.MultiTenancy.csproj.CoreCompileInputs.cache
+C:\Users\bulut\source\repos\Esniva\Esniva.MultiTenancy\obj\Debug\net10.0\Esniva.MultiTenancy.dll
+C:\Users\bulut\source\repos\Esniva\Esniva.MultiTenancy\obj\Debug\net10.0\refint\Esniva.MultiTenancy.dll
+C:\Users\bulut\source\repos\Esniva\Esniva.MultiTenancy\obj\Debug\net10.0\Esniva.MultiTenancy.pdb
+C:\Users\bulut\source\repos\Esniva\Esniva.MultiTenancy\obj\Debug\net10.0\ref\Esniva.MultiTenancy.dll
+C:\Users\bulut\source\repos\Esniva\Esniva.MultiTenancy\obj\Debug\net10.0\Esniva.MultiTenancy.csproj.AssemblyReference.cache
